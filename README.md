@@ -15,4 +15,4 @@ Quickly check for following vulnerablity using single script
 
 Download python script & run
 
-+ Syntax: [ > python basicCheck.py --u https://example.com ]
++ Syntax: [ python basicCheck.py --u https://example.com ]
