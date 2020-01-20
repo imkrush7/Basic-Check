@@ -12,6 +12,7 @@ Quickly check for following vulnerablity using single script
 + HttpOnly & Secure
 
 
+
 Download python script & run
 
 + Syntax: [python basicCheck.py --u https://example.com]
