@@ -8,7 +8,6 @@ Quickly check for following vulnerablity using single script
 + Clickjacking
 + Server Banner
 + Application Banner
-+ Browser Cache
 + HttpOnly & Secure
 
 
